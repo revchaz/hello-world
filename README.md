@@ -1,2 +1,6 @@
 # hello-world
-a place where you store ideas, resources, or even share and discuss things with others
+
+Greetings,
+
+My passion is cooking but I am doing this for work.
+Hey, it pays the bills.
